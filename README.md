@@ -89,3 +89,9 @@ Feel free to open issues or submit pull requests for improvements, bug fixes, or
 
 ## License
 This project is licensed under the ISC license.
+
+## Check out my social profiles here:
+[Instagram](https://www.instagram.com/techwith.ram/)
+[X](https://x.com/techwith_ram)
+[LinkedIn](https://www.linkedin.com/in/ramakrushnamohapatra/)
+[GitHub](https://github.com/Ramakm)
